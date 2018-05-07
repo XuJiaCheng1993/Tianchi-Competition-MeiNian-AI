@@ -1,8 +1,6 @@
-# Tianchi-Competition-MeiNian-AI
-- os: Win10
-- python3.6 
-library version:
-- numpy
-- padas
-- scikit-learn
-- lightgbm
+# Tianchi-Competition-MeiNianAI
+整个过程包含以下四个部分:
+- 数据清洗
+- 特征工程
+- 单模型建模
+- 模型融合
